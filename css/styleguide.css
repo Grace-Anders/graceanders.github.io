@@ -1,0 +1,173 @@
+:root { 
+  --black: #000000;
+  --black-2: #0106008c;
+  --coriander: #c4d2af;
+  --coriander-2: #c5d2af;
+  --dingley: #6b8245;
+  --green-white: #eaf0e2;
+  --highland: #6e8b64;
+  --mallard: #1f381d;
+  --racing-green: #0d1d08;
+  --racing-green-2: #0f1c0d;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 32px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-istok_web: "Istok Web", Helvetica;
+}
+.inter-medium-green-white-12px {
+  color: var(--green-white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.istokweb-normal-coriander-14px {
+  color: var(--coriander);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.istokweb-normal-coriander-16px {
+  color: var(--coriander);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-bold-green-white-16px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.istokweb-normal-green-white-16px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-bold-highland-12px {
+  color: var(--highland);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.istokweb-normal-white-14px {
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-normal-green-white-14px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-coriander-16px {
+  color: var(--coriander);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-bold-green-white-14px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-green-white-16px {
+  color: var(--green-white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.istokweb-bold-racing-green-16px {
+  color: var(--racing-green-2);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.istokweb-bold-green-white-48px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.istokweb-normal-green-white-20px {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-normal-white-16px {
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-bold-coriander-16px {
+  color: var(--coriander);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-green-white-12px {
+  color: var(--green-white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-green-white-16px {
+  color: var(--green-white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

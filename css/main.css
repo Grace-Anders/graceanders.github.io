@@ -1,0 +1,2463 @@
+/* screen - mobileportfolio */
+
+.mobileportfolio {
+  align-items: flex-start;
+  background-color: var(--mallard);
+  display: flex;
+  flex-direction: column;
+  min-height: 2744px;
+  overflow-x: hidden;
+  width: 731px;
+}
+
+.mobileportfolio .header-1 {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 104px;
+  justify-content: flex-start;
+  margin-left: -46px;
+  width: 777px;
+}
+
+.mobileportfolio .overlap-group5 {
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  margin-left: 66px;
+  position: relative;
+  width: 711px;
+}
+
+.mobileportfolio .background-2 {
+  background-color: var(--racing-green-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  top: 0;
+  transform: rotate(180deg);
+  width: 711px;
+}
+
+.mobileportfolio .social-icons-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 28px;
+  height: 33px;
+  left: 570px;
+  min-width: 156px;
+  position: absolute;
+  top: 25px;
+}
+
+.mobileportfolio .github-1 {
+  align-self: flex-start;
+  height: 32px;
+  object-fit: cover;
+  width: 34px;
+  transition: all 0.3s;
+}
+
+.github-1:hover{
+  transform: scale(1.15);
+}
+
+.mobileportfolio .linked-in-1 {
+  height: 33px;
+  margin-bottom: -0.22px;
+  object-fit: cover;
+  width: 34px;
+  transition: all 0.3s;
+}
+
+.linked-in-1:hover{
+  transform: scale(1.15);
+}
+
+.mobileportfolio .info-2 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 613px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 43px;
+  min-width: 380px;
+  padding: 21px 0;
+}
+
+.mobileportfolio .overlap-group4-1 {
+  height: 570px;
+  position: relative;
+  width: 423px;
+}
+
+.mobileportfolio .overlap-group-4 {
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 423px;
+}
+
+.mobileportfolio .picture-1 {
+  height: 403px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.mobileportfolio .background-3 {
+  background-color: var(--black-2);
+  border-radius: 40px;
+  height: 200px;
+  top: 348px;
+  width: 423px;
+}
+
+.mobileportfolio .intro-2 {
+  height: 44px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 441px;
+  width: 376px;
+}
+
+.mobileportfolio .heading2 {
+  height: 28px;
+  left: 130px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+  width: 162px;
+}
+
+.mobileportfolio .name-1 {
+  height: 59px;
+  left: 63px;
+  letter-spacing: -1.20px;
+  line-height: 48px;
+  position: absolute;
+  top: 360px;
+  width: 300px;
+}
+
+.mobileportfolio .rectangle-1 {
+  background-color: var(--coriander-2);
+  border-radius: 15px;
+  height: 61px;
+  left: 105px;
+  position: absolute;
+  top: 509px;
+  width: 211px;
+  transition: all 0.3s;
+}
+
+.contact-me a {
+  color: inherit;
+}
+
+.rectangle-1:hover{
+  transform: scale(1.05);
+}
+
+.mobileportfolio .contact-me-1 {
+  color: var(--racing-green-2);
+  font-family: var(--font-family-istok_web);
+  font-size: 24px;
+  font-weight: 700;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 211px;
+}
+
+.contact-me-1 a {
+  color: inherit;
+}
+
+.mobileportfolio .scroll-frame-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1940px;
+  margin-top: 44px;
+  padding: 8px 0;
+  width: 731px;
+}
+
+.mobileportfolio .intro-3 {
+  display: flex;
+  height: 312px;
+  margin-right: 10.0px;
+  margin-top: 27px;
+  width: 571px;
+}
+
+.mobileportfolio .intro-4 {
+  display: flex;
+  flex: 1;
+  width: 573px;
+}
+
+.mobileportfolio .paragraph-1-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 571px;
+}
+
+.mobileportfolio .lines-2 {
+  margin-right: 9.0px;
+}
+
+.mobileportfolio .experiences-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 24.44px;
+  margin-top: 42px;
+  min-height: 727px;
+  width: 567px;
+}
+
+.mobileportfolio .overlap-group1-2 {
+  height: 228px;
+  position: relative;
+  width: 562px;
+}
+
+.mobileportfolio .experience-1 {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 562px;
+}
+
+.mobileportfolio .e1-experience-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 46px;
+  min-width: 562.38px;
+}
+
+.mobileportfolio .date-tags-3 {
+  width: 109px;
+}
+
+.mobileportfolio .x-date-1 {
+  flex: 1;
+  height: 16px;
+  letter-spacing: 0.30px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.mobileportfolio .job-description-3 {
+  align-self: flex-end;
+  margin-bottom: -31px;
+  min-height: 197px;
+  width: 407px;
+}
+
+.mobileportfolio .heading-2 {
+  width: 409px;
+}
+
+.mobileportfolio .e1-heading-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.2px;
+}
+
+.mobileportfolio .text-3 {
+  display: flex;
+  width: 409px;
+}
+
+.mobileportfolio .e1-text-1 {
+  flex: 1;
+  height: 168px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.mobileportfolio .e1-tags-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 188px;
+  position: absolute;
+  top: 40px;
+  width: 134px;
+}
+
+.mobileportfolio .text-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobileportfolio .e-tag-container-5 {
+  gap: 11px;
+  min-width: 134px;
+}
+
+.mobileportfolio .e-tag-container-6 {
+  gap: 9px;
+  min-width: 107px;
+}
+
+.mobileportfolio .e-tag-container-7 {
+  gap: 9px;
+  min-width: 125px;
+}
+
+.mobileportfolio .overlap-group2-1 {
+  height: 166px;
+  margin-top: 50px;
+  position: relative;
+  width: 565px;
+}
+
+.mobileportfolio .experience2-1 {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 564px;
+}
+
+.mobileportfolio .e2-experience-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 48px;
+  min-width: 564.35px;
+}
+
+.mobileportfolio .date-tags-4 {
+  width: 108px;
+}
+
+.mobileportfolio .job-description-4 {
+  min-height: 134px;
+  width: 409px;
+}
+
+.mobileportfolio .heading-3 {
+  width: 411px;
+}
+
+.mobileportfolio .e2-heading-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 408.64px;
+}
+
+.mobileportfolio .text-5 {
+  display: flex;
+  width: 411px;
+}
+
+.mobileportfolio .e2-text-1 {
+  flex: 1;
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.mobileportfolio .e2-tags-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 67px;
+  position: absolute;
+  top: 40px;
+  width: 120px;
+}
+
+.mobileportfolio .e-tag-container-8 {
+  gap: 11px;
+  min-width: 101px;
+}
+
+.mobileportfolio .e2-tag1-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 41px;
+}
+
+.mobileportfolio .e2-tag2-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 49px;
+}
+
+.mobileportfolio .e2-tag3-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 120px;
+}
+
+.mobileportfolio .overlap-group3-1 {
+  height: 166px;
+  margin-top: 50px;
+  position: relative;
+  width: 563px;
+}
+
+.mobileportfolio .e3-experience-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 41px;
+  min-width: 562.35px;
+}
+
+.mobileportfolio .date-tags-5 {
+  width: 114px;
+}
+
+.mobileportfolio .job-description-5 {
+  min-height: 155px;
+  width: 407px;
+}
+
+.mobileportfolio .e3-heading-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.19px;
+}
+
+.mobileportfolio .e3-text-1 {
+  flex: 1;
+  height: 126px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.mobileportfolio .e3-tags-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 108px;
+  position: absolute;
+  top: 40px;
+  width: 107px;
+}
+
+.mobileportfolio .e-tag-container-9 {
+  gap: 10px;
+  min-width: 107px;
+}
+
+.mobileportfolio .resume-link-1 {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.02px;
+  margin-top: 48px;
+  white-space: nowrap;
+}
+
+.mobileportfolio .lines-3 {
+  margin-right: 8.73px;
+}
+
+.mobileportfolio .projects-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-right: 13.75px;
+  margin-top: 42px;
+  min-height: 501px;
+  width: 577px;
+}
+
+.mobileportfolio .project1-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 206px;
+  width: 568px;
+}
+
+.mobileportfolio .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  min-width: 537px;
+}
+
+.mobileportfolio .overlap-group-3 {
+  height: 81px;
+  position: relative;
+  width: 143px;
+}
+
+.mobileportfolio .x-background-1 {
+  background-color: var(--dingley);
+  border-radius: 4px;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 138px;
+}
+
+.mobileportfolio .p1-image-1 {
+  background-image: url(../img/p1-image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.mobileportfolio .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-bottom: 4.0px;
+  min-height: 59px;
+  width: 383px;
+}
+
+.mobileportfolio .x-heading-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 383px;
+}
+
+.x-heading-1 a{
+  color: inherit;
+}
+
+.mobileportfolio .x-tags-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  position: relative;
+  width: 308px;
+}
+
+.mobileportfolio .x-tag-3 {
+  flex: 0 0 auto;
+}
+
+.mobileportfolio .p1-tag4-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -28.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.mobileportfolio .p1-body-1 {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 568px;
+}
+
+.mobileportfolio .project2-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 1.14px;
+  min-height: 206px;
+  width: 574px;
+}
+
+.mobileportfolio .p2-image-1 {
+  background-image: url(../img/p2-image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.mobileportfolio .p2-tag4-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -1.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.mobileportfolio .p2-body-1 {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 574px;
+}
+
+.mobileportfolio .additional-projects-1 {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.14px;
+  white-space: nowrap;
+}
+
+.mobileportfolio .footer-1 {
+  align-self: flex-end;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 143px;
+  width: 344px;
+}
+
+.mobileportfolio .background {
+  left: 0;
+  position: absolute;
+}
+
+.mobileportfolio .date-tags {
+  display: flex;
+  margin-top: 6px;
+}
+
+.mobileportfolio .e-tag-container {
+  align-items: flex-start;
+  display: flex;
+}
+
+.mobileportfolio .heading {
+  display: flex;
+  height: 20px;
+}
+
+.mobileportfolio .job-description {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.mobileportfolio .lines {
+  height: 13px;
+  margin-top: 42px;
+  object-fit: cover;
+  width: 572px;
+}
+
+.mobileportfolio .x-tag {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+/* screen - webportfolio-1-all-breakpoints */
+
+.webportfolio-1-all-breakpoints {
+  align-items: flex-end;
+  background-color: var(--mallard);
+  display: flex;
+  flex-direction: column;
+  min-height: 2130px;
+  width: 1200px;
+}
+
+.webportfolio-1-all-breakpoints .header {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 104px;
+  justify-content: flex-start;
+  width: 777px;
+  /*
+  z-index: 3;*/
+}
+
+.webportfolio-1-all-breakpoints .overlap-group4 {
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  margin-left: 66px;
+  position: relative;
+  width: 711px;
+}
+
+.webportfolio-1-all-breakpoints .background {
+  background-color: var(--racing-green-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 711px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group-1 {
+  align-items: center;
+  background-color: var(--coriander-2);
+  border-radius: 15px;
+  display: flex;
+  height: 37px;
+  left: 565px;
+  min-width: 128px;
+  position: absolute;
+  top: 20px;
+  transition: all 0.3s;
+}
+
+.overlap-group-1:hover{
+  transform: scale(1.05);
+}
+
+.webportfolio-1-all-breakpoints .info {
+  display: flex;
+  height: 590px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 432px;
+  /*z-index: 4;*/
+}
+
+.webportfolio-1-all-breakpoints .info-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 400px;
+  padding: 11.0px 0;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group1 {
+  height: 523px;
+  position: relative;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group-2 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .picture {
+  height: 371px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.webportfolio-1-all-breakpoints .background-1 {
+  background-color: var(--black-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 341px;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .intro {
+  height: 42px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 425px;
+  width: 358px;
+}
+
+.webportfolio-1-all-breakpoints .title {
+  height: 27px;
+  left: 26px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.webportfolio-1-all-breakpoints .name {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 48px;
+  left: 26px;
+  letter-spacing: -1.20px;
+  line-height: 48px;
+  position: absolute;
+  top: 345px;
+  width: 309px;
+}
+
+.webportfolio-1-all-breakpoints .social-icons {
+  align-items: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 22px;
+  left: 27px;
+  min-width: 102px;
+  position: absolute;
+  top: 490px;
+}
+
+.webportfolio-1-all-breakpoints .github {
+  align-self: flex-start;
+  height: 21px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.github:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-1-all-breakpoints .linked-in {
+  height: 22px;
+  margin-bottom: -0.14px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.linked-in:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-1-all-breakpoints .scroll-frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  height: 1937px;
+  margin-right: 8px;
+  padding: 54px 74.2px;
+  width: 731px;
+  /*z-index: 2;*/
+}
+
+.webportfolio-1-all-breakpoints .intro-1 {
+  align-self: center;
+  display: flex;
+  height: 312px;
+  margin-left: 1.0px;
+  width: 572px;
+}
+
+.webportfolio-1-all-breakpoints .paragraph-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 570px;
+}
+
+.webportfolio-1-all-breakpoints .lines {
+  height: 13px;
+  margin-left: 6.82px;
+  object-fit: cover;
+  width: 545px;
+}
+
+.webportfolio-1-all-breakpoints .experiences {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.78px;
+  min-height: 727px;
+  width: 567px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group1-1 {
+  height: 228px;
+  position: relative;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .experience {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .e1-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 46px;
+  min-width: 563.08px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags {
+  display: flex;
+  margin-top: 6px;
+  width: 109px;
+}
+
+.webportfolio-1-all-breakpoints .x-date {
+  flex: 1;
+  height: 16px;
+  letter-spacing: 0.30px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.webportfolio-1-all-breakpoints .job-description {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-bottom: -31px;
+  min-height: 197px;
+  width: 408px;
+}
+
+.webportfolio-1-all-breakpoints .heading {
+  display: flex;
+  height: 20px;
+  width: 410px;
+}
+
+.webportfolio-1-all-breakpoints .e1-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.71px;
+}
+
+.webportfolio-1-all-breakpoints .text {
+  display: flex;
+  width: 410px;
+}
+
+.webportfolio-1-all-breakpoints .e1-text {
+  flex: 1;
+  height: 168px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e1-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 188px;
+  position: absolute;
+  top: 40px;
+  width: 134px;
+}
+
+.webportfolio-1-all-breakpoints .x-tag {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .text-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  min-width: 134px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-1 {
+  gap: 9px;
+  min-width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-2 {
+  gap: 9px;
+  min-width: 125px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group2 {
+  height: 166px;
+  margin-left: 0.02px;
+  margin-top: 50px;
+  position: relative;
+  width: 565px;
+}
+
+.webportfolio-1-all-breakpoints .experience2 {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.webportfolio-1-all-breakpoints .e2-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 48px;
+  min-width: 565.06px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags-1 {
+  width: 108px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-1 {
+  min-height: 134px;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .heading-1 {
+  display: flex;
+  height: 20px;
+  width: 411px;
+}
+
+.webportfolio-1-all-breakpoints .e2-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 409.15px;
+}
+
+.webportfolio-1-all-breakpoints .text-2 {
+  display: flex;
+  width: 411px;
+}
+
+.webportfolio-1-all-breakpoints .e2-text {
+  flex: 1;
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 67px;
+  position: absolute;
+  top: 40px;
+  width: 120px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-3 {
+  gap: 11px;
+  min-width: 101px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 41px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 49px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag3 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 120px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group3 {
+  height: 166px;
+  margin-left: 0.02px;
+  margin-top: 50px;
+  position: relative;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .e3-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 41px;
+  min-width: 563.06px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags-2 {
+  width: 114px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-2 {
+  min-height: 155px;
+  width: 408px;
+}
+
+.webportfolio-1-all-breakpoints .e3-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.7px;
+}
+
+.webportfolio-1-all-breakpoints .e3-text {
+  flex: 1;
+  height: 126px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e3-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 108px;
+  position: absolute;
+  top: 40px;
+  width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-4 {
+  gap: 10px;
+  min-width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .resume-link {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.02px;
+  margin-top: 48px;
+  white-space: nowrap;
+}
+
+.webportfolio-1-all-breakpoints .lines-1 {
+  height: 13px;
+  margin-left: 3.82px;
+  object-fit: cover;
+  width: 545px;
+}
+
+.webportfolio-1-all-breakpoints .projects-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  min-height: 501px;
+  width: 578px;
+}
+
+.webportfolio-1-all-breakpoints .project1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 206px;
+  width: 569px;
+}
+
+.webportfolio-1-all-breakpoints .flex-row {
+  align-items: center;
+  min-width: 537px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group {
+  height: 81px;
+  position: relative;
+  width: 143px;
+}
+
+.webportfolio-1-all-breakpoints .x-background {
+  background-color: var(--dingley);
+  border-radius: 4px;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .p1-image {
+  background-image: url(../img/p1-image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .flex-col {
+  align-items: flex-start;
+  flex-direction: column;
+  margin-bottom: 4.0px;
+  min-height: 59px;
+  width: 383px;
+}
+
+.webportfolio-1-all-breakpoints .x-heading {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 383px;
+}
+
+.x-heading a{
+  color: inherit;
+}
+
+.webportfolio-1-all-breakpoints .x-tags {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  position: relative;
+  width: 308px;
+}
+
+.webportfolio-1-all-breakpoints .x-tag-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p1-tag4 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -28.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p1-body {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 569px;
+}
+
+.webportfolio-1-all-breakpoints .project2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 1.14px;
+  min-height: 206px;
+  width: 575px;
+}
+
+.webportfolio-1-all-breakpoints .p2-image {
+  background-image: url(../img/p2-image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .p2-tag4 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -1.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p2-body {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 575px;
+}
+
+.webportfolio-1-all-breakpoints .additional-projects {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.14px;
+  white-space: nowrap;
+}
+
+.projects a{
+  color: inherit;
+}
+
+.about a{
+  color: inherit;
+}
+
+.place a{
+  color: inherit;
+}
+
+.webportfolio-1-all-breakpoints .footer {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -3px;
+  margin-right: 8px;
+  margin-top: 56px;
+  white-space: nowrap;
+  width: 336px;
+  /*z-index: 1;*/
+}
+
+.webportfolio-1-all-breakpoints .date-tags-3 {
+  display: flex;
+  margin-top: 6px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-5 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.webportfolio-1-all-breakpoints .flex {
+  display: flex;
+  gap: 11px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+/* screen - webportfolio-2 */
+
+.webportfolio-2 {
+  align-items: flex-end;
+  background-color: var(--mallard);
+  display: flex;
+  flex-direction: column;
+  min-height: 2169px;
+  width: 980px;
+}
+
+.webportfolio-2 .header-2 {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 104px;
+  justify-content: flex-start;
+  overflow: hidden;
+  width: 711px;
+  /*z-index: 3;*/
+}
+
+.webportfolio-2 .overlap-group4-2 {
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  margin-left: 66px;
+  position: relative;
+  width: 711px;
+}
+
+.webportfolio-2 .background-4 {
+  background-color: var(--racing-green-2);
+  height: 91px;
+  top: 0;
+  transform: rotate(180deg);
+  width: 711px;
+}
+
+.webportfolio-2 .overlap-group-6 {
+  align-items: center;
+  background-color: var(--coriander-2);
+  border-radius: 15px;
+  display: flex;
+  height: 37px;
+  left: 499px;
+  min-width: 128px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.3s;
+}
+
+.overlap-group-6:hover{
+  transform: scale(1.05);
+}
+
+.contact-me-2 a {
+color: inherit
+}
+
+.webportfolio-2 .projects-4 {
+  height: 33px;
+  left: 287px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 131px;
+}
+
+.projects-4 a{
+  color: inherit;
+}
+
+.about-2 a{
+  color: inherit;
+}
+
+.place-2 a{
+  color: inherit;
+}
+
+.webportfolio-2 .intersect-4 {
+  height: 1px;
+  width: 632.2px;
+}
+
+.webportfolio-2 .intersect-5 {
+  height: 2px;
+  margin-left: 16.0px;
+  width: 616.16px;
+}
+
+.webportfolio-2 .info-3 {
+  height: 584px;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 432px;
+  /*z-index: 4;*/
+}
+
+.webportfolio-2 .info-4 {
+  height: 590px;
+  margin-bottom: -10px;
+  min-width: 423px;
+  padding: 11.0px 0;
+}
+
+.webportfolio-2 .overlap-group1-3 {
+  height: 523px;
+  position: relative;
+  width: 432px;
+}
+
+.webportfolio-2 .overlap-group-7 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+
+.webportfolio-2 .picture-2 {
+  height: 371px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.webportfolio-2 .background-5 {
+  background-color: var(--black-2);
+  height: 182px;
+  top: 341px;
+  width: 432px;
+}
+
+.webportfolio-2 .intro-5 {
+  height: 42px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 423px;
+  width: 378px;
+}
+
+.webportfolio-2 .title-1 {
+  height: 27px;
+  left: 27px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.webportfolio-2 .name-2 {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 48px;
+  left: 27px;
+  letter-spacing: -1.20px;
+  line-height: 48px;
+  position: absolute;
+  top: 345px;
+  width: 327px;
+}
+
+.webportfolio-2 .social-icons-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 22px;
+  left: 27px;
+  min-width: 102px;
+  position: absolute;
+  top: 482px;
+}
+
+.webportfolio-2 .github-2 {
+  align-self: flex-start;
+  height: 21px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.github-2:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-2 .linked-in-2 {
+  height: 22px;
+  margin-bottom: -0.14px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.linked-in-2:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-2 .scroll-frame-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  height: 1895px;
+  margin-top: 52px;
+  padding: 2px 44.0px;
+  width: 582px;
+  /*z-index: 2;*/
+}
+
+.webportfolio-2 .intro-6 {
+  display: flex;
+  height: 390px;
+  width: 474px;
+}
+
+.webportfolio-2 .paragraph-1-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 472.31px;
+}
+
+.webportfolio-2 .lines-4 {
+  margin-right: 40.0px;
+}
+
+.webportfolio-2 .experiences-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 750px;
+  width: 476px;
+}
+
+.webportfolio-2 .overlap-group2-2 {
+  height: 215px;
+  margin-left: 1px;
+  position: relative;
+  width: 471px;
+}
+
+.webportfolio-2 .experience1 {
+  display: flex;
+  height: 162px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 470px;
+}
+
+.webportfolio-2 .e1-experience-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 21px;
+  min-width: 469.7px;
+}
+
+.webportfolio-2 .date-tags-6 {
+  width: 109px;
+}
+
+.webportfolio-2 .x-date-2 {
+  flex: 1;
+  height: 16px;
+  letter-spacing: 0.30px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.webportfolio-2 .job-description-6 {
+  align-self: flex-end;
+  margin-bottom: -76.6px;
+  min-height: 240px;
+  width: 340px;
+}
+
+.webportfolio-2 .heading-4 {
+  width: 342px;
+}
+
+.webportfolio-2 .e1-heading-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 340.1px;
+}
+
+.webportfolio-2 .text-6 {
+  display: flex;
+  width: 342px;
+}
+
+.webportfolio-2 .e1-text-2 {
+  flex: 1;
+  height: 210px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-2 .e1-tags-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 175px;
+  position: absolute;
+  top: 40px;
+  width: 126px;
+}
+
+.webportfolio-2 .e1-tag1 {
+  width: 95px;
+}
+
+.webportfolio-2 .text-11 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -2.96px;
+  margin-right: -2.96px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e-tag-container-10 {
+  gap: 10px;
+  margin-top: 13px;
+  min-width: 126px;
+}
+
+.webportfolio-2 .x-tag-4 {
+  display: flex;
+  height: 26px;
+  width: 65px;
+}
+
+.webportfolio-2 .text-7 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -2.02px;
+  margin-right: -2.02px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e1-tag3 {
+  width: 51px;
+}
+
+.webportfolio-2 .text-12 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.58px;
+  margin-right: -1.58px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e1-tag4 {
+  margin-top: 11px;
+  width: 80px;
+}
+
+.webportfolio-2 .text-13 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -2.49px;
+  margin-right: -2.49px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e-tag-container-11 {
+  gap: 8px;
+  margin-top: 11px;
+  min-width: 101px;
+}
+
+.webportfolio-2 .x-tag-5 {
+  display: flex;
+  height: 26px;
+  width: 39px;
+}
+
+.webportfolio-2 .text-8 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.20px;
+  margin-right: -1.20px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e1-tag6 {
+  width: 54px;
+}
+
+.webportfolio-2 .text-14 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.67px;
+  margin-right: -1.67px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e-tag-container-12 {
+  gap: 8px;
+  margin-top: 11px;
+  min-width: 118px;
+}
+
+.webportfolio-2 .x-tag-6 {
+  display: flex;
+  height: 26px;
+  width: 53px;
+}
+
+.webportfolio-2 .text-9 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.64px;
+  margin-right: -1.64px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e1-tag8 {
+  width: 56px;
+}
+
+.webportfolio-2 .text-15 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.76px;
+  margin-right: -1.76px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .overlap-group1-4 {
+  height: 162px;
+  margin-top: 77px;
+  position: relative;
+  width: 474px;
+}
+
+.webportfolio-2 .experience2-2 {
+  display: flex;
+  height: 162px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.webportfolio-2 .e2-experience-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 22px;
+  min-width: 471.35px;
+}
+
+.webportfolio-2 .date-tags-7 {
+  width: 108px;
+}
+
+.webportfolio-2 .job-description-7 {
+  margin-top: -1px;
+  min-height: 156px;
+  width: 341px;
+}
+
+.webportfolio-2 .heading-5 {
+  width: 343px;
+}
+
+.webportfolio-2 .e2-heading-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 341.3px;
+}
+
+.webportfolio-2 .text-16 {
+  display: flex;
+  width: 343px;
+}
+
+.webportfolio-2 .e2-text-2 {
+  flex: 1;
+  height: 126px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-2 .e2-tags-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  min-height: 62px;
+  position: absolute;
+  top: 40px;
+  width: 113px;
+}
+
+.webportfolio-2 .e-tag-container-13 {
+  gap: 10px;
+  min-width: 95px;
+}
+
+.webportfolio-2 .e2-tag2-2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 46px;
+}
+
+.webportfolio-2 .text-17 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -1.43px;
+  margin-right: -1.43px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e2-tag3-2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 113px;
+}
+
+.webportfolio-2 .text-18 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -3.51px;
+  margin-right: -3.51px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .overlap-group3-2 {
+  height: 162px;
+  margin-top: 49px;
+  position: relative;
+  width: 472px;
+}
+
+.webportfolio-2 .experience3 {
+  display: flex;
+  height: 162px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 470px;
+}
+
+.webportfolio-2 .e3-experience-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 16px;
+  min-width: 469.68px;
+}
+
+.webportfolio-2 .date-tags-8 {
+  width: 114px;
+}
+
+.webportfolio-2 .job-description-8 {
+  align-self: flex-end;
+  margin-bottom: -34.6px;
+  min-height: 198px;
+  width: 340px;
+}
+
+.webportfolio-2 .e3-heading-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 340.09px;
+}
+
+.webportfolio-2 .e3-text-2 {
+  flex: 1;
+  height: 168px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-2 .e3-tags-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 99px;
+  position: absolute;
+  top: 40px;
+  width: 101px;
+}
+
+.webportfolio-2 .e3-tag2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 91px;
+}
+
+.webportfolio-2 .text-19 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -0.11px;
+  margin-left: -2.84px;
+  margin-right: -2.84px;
+  margin-top: -2.11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .e-tag-container-14 {
+  gap: 10px;
+  min-width: 101px;
+}
+
+.webportfolio-2 .resume-link-2 {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 3px;
+  margin-top: 66px;
+  white-space: nowrap;
+}
+
+.webportfolio-2 .lines-5 {
+  margin-right: 41.0px;
+}
+
+.webportfolio-2 .projects-5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-left: 4.13px;
+  min-height: 490px;
+  width: 461px;
+}
+
+.webportfolio-2 .project1-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  min-height: 202px;
+  width: 453px;
+}
+
+.webportfolio-2 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 11px;
+  min-width: 537px;
+}
+
+.webportfolio-2 .overlap-group-5 {
+  height: 79px;
+  position: relative;
+  width: 143px;
+}
+
+.webportfolio-2 .x-background-2 {
+  background-color: var(--dingley);
+  border-radius: 4px;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 138px;
+}
+
+.webportfolio-2 .p1-image-2 {
+  background-image: url(../img/p1-image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 75px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-2 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 3.46px;
+  min-height: 60px;
+  width: 383px;
+}
+
+.webportfolio-2 .x-heading-2 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 383px;
+}
+
+.x-heading-2 a{
+  color: inherit;
+}
+
+.webportfolio-2 .x-tags-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  position: relative;
+  width: 308px;
+}
+
+.webportfolio-2 .x-tag-7 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 28px;
+}
+
+.webportfolio-2 .text-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-2 .p1-tag4-2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -28.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-2 .p1-body-2 {
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 453px;
+}
+
+.webportfolio-2 .project2-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-left: 0.91px;
+  min-height: 202px;
+  width: 458px;
+}
+
+.webportfolio-2 .p2-image-2 {
+  background-image: url(../img/p2-image-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 75px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-2 .p2-tag4-2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -1.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-2 .p2-body-2 {
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 458px;
+}
+
+.webportfolio-2 .additional-projects-2 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -2px;
+  margin-left: 0.22px;
+  white-space: nowrap;
+}
+
+.projects-2 a {
+  color: inherit;
+}
+
+.about-1 a {
+  color:inherit;
+}
+
+.place-1 a {
+  color: inherit;
+}
+
+.webportfolio-2 .footer-2 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -4px;
+  margin-right: 11px;
+  margin-top: 88px;
+  white-space: nowrap;
+  width: 335px;
+  /*z-index: 1;*/
+}
+
+.webportfolio-2 .background {
+  border-radius: 2px 40px 40px 2px;
+  left: 0;
+  position: absolute;
+}
+
+.webportfolio-2 .date-tags {
+  display: flex;
+  margin-top: 6px;
+}
+
+.webportfolio-2 .e-tag-container {
+  align-items: flex-start;
+  display: flex;
+}
+
+.webportfolio-2 .e1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 26px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-2 .heading {
+  display: flex;
+  height: 20px;
+}
+
+.webportfolio-2 .info {
+  align-items: flex-end;
+  display: flex;
+}
+
+.webportfolio-2 .job-description {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.webportfolio-2 .lines {
+  height: 13px;
+  width: 434px;
+}
+
+.webportfolio-2 .x-tag {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+@media screen and (max-width: 979px) {
+  .screen.webportfolio-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.webportfolio-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 980px) and (max-width: 1199px) {
+  .screen.webportfolio-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobileportfolio { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) {
+  .screen.mobileportfolio { 
+    display: none;
+   }
+  .screen.webportfolio-2 { 
+    display: none;
+   }
+}
