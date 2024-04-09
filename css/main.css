@@ -7,45 +7,43 @@
   flex-direction: column;
   min-height: 2744px;
   overflow-x: hidden;
-  width: 731px;
 }
 
 .mobileportfolio .header-1 {
   align-items: flex-end;
-  background-color: transparent;
   display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
   height: 104px;
-  justify-content: flex-start;
-  margin-left: -46px;
-  width: 777px;
 }
 
 .mobileportfolio .overlap-group5 {
-  border-radius: 2px 40px 40px 2px;
   height: 91px;
-  margin-left: 66px;
-  position: relative;
-  width: 711px;
+  position: sticky;
 }
 
 .mobileportfolio .background-2 {
   background-color: var(--racing-green-2);
-  border-radius: 2px 40px 40px 2px;
+  border-radius: 40px 40px 40px 40px;
   height: 91px;
-  top: 0;
   transform: rotate(180deg);
-  width: 711px;
+  width: 600px;
+}
+
+.mobileportfolio .intersect-2{
+  width: 575px;
+  position: center;
+}
+
+.mobileportfolio .intersect-3{
+  width: 545px;
+  position: center;
 }
 
 .mobileportfolio .social-icons-1 {
   align-items: flex-end;
   display: flex;
   gap: 28px;
-  height: 33px;
-  left: 570px;
-  min-width: 156px;
+  height: 35px;
+  left: 480px;
   position: absolute;
   top: 25px;
 }
@@ -80,7 +78,7 @@
   display: flex;
   height: 613px;
   justify-content: flex-end;
-  margin-right: 1.0px;
+  margin-right: 10.0px;
   margin-top: 43px;
   min-width: 380px;
   padding: 21px 0;
@@ -193,27 +191,25 @@
   height: 1940px;
   margin-top: 44px;
   padding: 8px 0;
-  width: 731px;
+  width: 100%;
 }
 
 .mobileportfolio .intro-3 {
   display: flex;
-  height: 312px;
-  margin-right: 10.0px;
-  margin-top: 27px;
-  width: 571px;
+  flex: 1;
 }
 
 .mobileportfolio .intro-4 {
   display: flex;
   flex: 1;
-  width: 573px;
 }
 
 .mobileportfolio .paragraph-1-1 {
   flex: 1;
   letter-spacing: 0;
   line-height: 26px;
+  margin-left: 15px;
+  margin-right: 15px;
   width: 571px;
 }
 
@@ -240,10 +236,9 @@
 .mobileportfolio .experience-1 {
   display: flex;
   height: 166px;
-  left: 0;
-  position: absolute;
+  position: relative;
   top: 0;
-  width: 562px;
+  width: 100%;
 }
 
 .mobileportfolio .e1-experience-1 {
@@ -251,7 +246,6 @@
   display: flex;
   flex: 1;
   gap: 46px;
-  min-width: 562.38px;
 }
 
 .mobileportfolio .date-tags-3 {
@@ -264,6 +258,7 @@
   letter-spacing: 0.30px;
   line-height: 16px;
   white-space: nowrap;
+  margin-left: 20px;
 }
 
 .mobileportfolio .job-description-3 {
@@ -286,7 +281,7 @@
 
 .mobileportfolio .text-3 {
   display: flex;
-  width: 409px;
+  width: 100%;
 }
 
 .mobileportfolio .e1-text-1 {
@@ -301,7 +296,7 @@
   display: flex;
   flex-direction: column;
   gap: 12px;
-  left: 0;
+  left: 15px;
   min-height: 188px;
   position: absolute;
   top: 40px;
@@ -393,7 +388,7 @@
   display: flex;
   flex-direction: column;
   gap: 11px;
-  left: 0;
+  left: 15px;
   min-height: 67px;
   position: absolute;
   top: 40px;
@@ -487,7 +482,7 @@
   display: flex;
   flex-direction: column;
   gap: 12px;
-  left: 0;
+  left: 15px;
   min-height: 108px;
   position: absolute;
   top: 40px;
@@ -504,7 +499,7 @@
   letter-spacing: 0;
   line-height: 20px;
   margin-bottom: -1px;
-  margin-left: 0.02px;
+  margin-left: 15px;
   margin-top: 48px;
   white-space: nowrap;
 }
@@ -550,7 +545,7 @@
   background-color: var(--dingley);
   border-radius: 4px;
   height: 77px;
-  left: 0;
+  left:   10px;
   position: absolute;
   top: 4px;
   width: 138px;
@@ -562,7 +557,7 @@
   background-size: cover;
   border-radius: 4px;
   height: 77px;
-  left: 4px;
+  left: 15px;
   position: absolute;
   top: 0;
   width: 138px;
@@ -575,6 +570,7 @@
   gap: 11px;
   margin-bottom: 4.0px;
   min-height: 59px;
+  margin-left: 10px;
   width: 383px;
 }
 
@@ -619,6 +615,7 @@
   height: 84px;
   letter-spacing: 0;
   line-height: 21px;
+  margin-left: 15px;
   width: 568px;
 }
 
@@ -638,7 +635,7 @@
   background-size: cover;
   border-radius: 4px;
   height: 77px;
-  left: 4px;
+  left: 15px;
   position: absolute;
   top: 0;
   width: 138px;
@@ -662,6 +659,7 @@
   height: 84px;
   letter-spacing: 0;
   line-height: 21px;
+  margin-left: 15px;
   width: 574px;
 }
 
@@ -670,7 +668,7 @@
   letter-spacing: 0;
   line-height: 20px;
   margin-bottom: -1px;
-  margin-left: 0.14px;
+  margin-left: 15px;
   white-space: nowrap;
 }
 
@@ -698,10 +696,6 @@
   display: flex;
 }
 
-.mobileportfolio .heading {
-  display: flex;
-  height: 20px;
-}
 
 .mobileportfolio .job-description {
   align-items: flex-start;
@@ -925,8 +919,8 @@
   align-self: center;
   display: flex;
   height: 312px;
-  margin-left: 1.0px;
-  width: 572px;
+  margin-left: 15px;
+  width: 100%;
 }
 
 .webportfolio-1-all-breakpoints .paragraph-1 {
@@ -1474,7 +1468,7 @@
   flex-direction: column;
   gap: 9px;
 }
-/* screen - webportfolio-2 */
+/* Medium Screen */
 
 .webportfolio-2 {
   align-items: flex-end;
@@ -1482,7 +1476,13 @@
   display: flex;
   flex-direction: column;
   min-height: 2169px;
-  width: 980px;
+  width: 800px;
+  width: 100%;
+}
+
+.webportfolio-2 .header-container {
+  max-width: 800px; /* Adjust as needed */
+  width: 100%;
 }
 
 .webportfolio-2 .header-2 {
@@ -1492,30 +1492,29 @@
   flex-direction: row;
   flex-shrink: 1;
   height: 104px;
-  justify-content: flex-start;
+  justify-content: flex-end;
   overflow: hidden;
-  width: 711px;
-  /*z-index: 3;*/
+  width: 100%;
 }
 
 .webportfolio-2 .overlap-group4-2 {
-  border-radius: 2px 40px 40px 2px;
   height: 91px;
   margin-left: 66px;
   position: relative;
-  width: 711px;
+  width: 100%;
+  right: -80px;
 }
 
 .webportfolio-2 .background-4 {
   background-color: var(--racing-green-2);
-  height: 91px;
-  top: 0;
+  width: 100%;
+  height: 100%;
   transform: rotate(180deg);
-  width: 711px;
 }
 
 .webportfolio-2 .overlap-group-6 {
   align-items: center;
+  justify-content: center;
   background-color: var(--coriander-2);
   border-radius: 15px;
   display: flex;
@@ -2437,7 +2436,7 @@ color: inherit
   padding: 4px 12px;
   position: relative;
 }
-@media screen and (max-width: 979px) {
+@media screen and (max-width: 970px) {
   .screen.webportfolio-1-all-breakpoints { 
     display: none;
    }
@@ -2445,7 +2444,7 @@ color: inherit
     display: none;
    }
 }
-@media screen and (min-width: 980px) and (max-width: 1199px) {
+@media screen and (min-width: 971px) and (max-width: 1199px) {
   .screen.webportfolio-1-all-breakpoints { 
     display: none;
    }
