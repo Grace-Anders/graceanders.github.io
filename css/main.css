@@ -1,5 +1,5 @@
-/* screen - mobileportfolio */
-
+/* Small Screen */
+/*#region*/
 .mobileportfolio {
   align-items: flex-start;
   background-color: var(--mallard);
@@ -722,754 +722,10 @@
   padding: 4px 12px;
   position: relative;
 }
-/* screen - webportfolio-1-all-breakpoints */
+/*#endregion*/
 
-.webportfolio-1-all-breakpoints {
-  align-items: flex-end;
-  background-color: var(--mallard);
-  display: flex;
-  flex-direction: column;
-  min-height: 2130px;
-  width: 1200px;
-}
-
-.webportfolio-1-all-breakpoints .header {
-  align-items: flex-end;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  height: 104px;
-  justify-content: flex-start;
-  width: 777px;
-  /*
-  z-index: 3;*/
-}
-
-.webportfolio-1-all-breakpoints .overlap-group4 {
-  border-radius: 2px 40px 40px 2px;
-  height: 91px;
-  margin-left: 66px;
-  position: relative;
-  width: 711px;
-}
-
-.webportfolio-1-all-breakpoints .background {
-  background-color: var(--racing-green-2);
-  border-radius: 2px 40px 40px 2px;
-  height: 91px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  transform: rotate(180deg);
-  width: 711px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group-1 {
-  align-items: center;
-  background-color: var(--coriander-2);
-  border-radius: 15px;
-  display: flex;
-  height: 37px;
-  left: 565px;
-  min-width: 128px;
-  position: absolute;
-  top: 20px;
-  transition: all 0.3s;
-}
-
-.overlap-group-1:hover{
-  transform: scale(1.05);
-}
-
-.webportfolio-1-all-breakpoints .info {
-  display: flex;
-  height: 590px;
-  left: 0;
-  position: fixed;
-  top: 0;
-  width: 432px;
-  /*z-index: 4;*/
-}
-
-.webportfolio-1-all-breakpoints .info-1 {
-  align-items: flex-end;
-  display: flex;
-  flex: 1;
-  min-width: 400px;
-  padding: 11.0px 0;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group1 {
-  height: 523px;
-  position: relative;
-  width: 409px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group-2 {
-  height: 523px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 409px;
-}
-
-.webportfolio-1-all-breakpoints .picture {
-  height: 371px;
-  left: 53px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 307px;
-}
-
-.webportfolio-1-all-breakpoints .background-1 {
-  background-color: var(--black-2);
-  border-radius: 2px 40px 40px 2px;
-  height: 182px;
-  left: 0;
-  position: absolute;
-  top: 341px;
-  width: 409px;
-}
-
-.webportfolio-1-all-breakpoints .intro {
-  height: 42px;
-  left: 26px;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: absolute;
-  top: 425px;
-  width: 358px;
-}
-
-.webportfolio-1-all-breakpoints .title {
-  height: 27px;
-  left: 26px;
-  letter-spacing: -0.50px;
-  line-height: 28px;
-  position: absolute;
-  top: 389px;
-  white-space: nowrap;
-  width: 197px;
-}
-
-.webportfolio-1-all-breakpoints .name {
-  color: var(--green-white);
-  font-family: var(--font-family-istok_web);
-  font-size: var(--font-size-xxl);
-  font-weight: 700;
-  height: 48px;
-  left: 26px;
-  letter-spacing: -1.20px;
-  line-height: 48px;
-  position: absolute;
-  top: 345px;
-  width: 309px;
-}
-
-.webportfolio-1-all-breakpoints .social-icons {
-  align-items: flex-end;
-  display: flex;
-  gap: 18px;
-  height: 22px;
-  left: 27px;
-  min-width: 102px;
-  position: absolute;
-  top: 490px;
-}
-
-.webportfolio-1-all-breakpoints .github {
-  align-self: flex-start;
-  height: 21px;
-  object-fit: cover;
-  width: 22px;
-  transition: all 0.3s;
-}
-
-.github:hover{
-  transform: scale(1.15);
-}
-
-.webportfolio-1-all-breakpoints .linked-in {
-  height: 22px;
-  margin-bottom: -0.14px;
-  object-fit: cover;
-  width: 22px;
-  transition: all 0.3s;
-}
-
-.linked-in:hover{
-  transform: scale(1.15);
-}
-
-.webportfolio-1-all-breakpoints .scroll-frame {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 52px;
-  height: 1937px;
-  margin-right: 8px;
-  padding: 54px 74.2px;
-  width: 731px;
-  /*z-index: 2;*/
-}
-
-.webportfolio-1-all-breakpoints .intro-1 {
-  align-self: center;
-  display: flex;
-  height: 312px;
-  margin-left: 15px;
-  width: 100%;
-}
-
-.webportfolio-1-all-breakpoints .paragraph-1 {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 26px;
-  width: 570px;
-}
-
-.webportfolio-1-all-breakpoints .lines {
-  height: 13px;
-  margin-left: 6.82px;
-  object-fit: cover;
-  width: 545px;
-}
-
-.webportfolio-1-all-breakpoints .experiences {
-  align-items: flex-start;
-  align-self: center;
-  display: flex;
-  flex-direction: column;
-  margin-right: 1.78px;
-  min-height: 727px;
-  width: 567px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group1-1 {
-  height: 228px;
-  position: relative;
-  width: 563px;
-}
-
-.webportfolio-1-all-breakpoints .experience {
-  display: flex;
-  height: 166px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 563px;
-}
-
-.webportfolio-1-all-breakpoints .e1-experience {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  gap: 46px;
-  min-width: 563.08px;
-}
-
-.webportfolio-1-all-breakpoints .date-tags {
-  display: flex;
-  margin-top: 6px;
-  width: 109px;
-}
-
-.webportfolio-1-all-breakpoints .x-date {
-  flex: 1;
-  height: 16px;
-  letter-spacing: 0.30px;
-  line-height: 16px;
-  white-space: nowrap;
-}
-
-.webportfolio-1-all-breakpoints .job-description {
-  align-items: flex-start;
-  align-self: flex-end;
-  display: flex;
-  flex-direction: column;
-  gap: 9px;
-  margin-bottom: -31px;
-  min-height: 197px;
-  width: 408px;
-}
-
-.webportfolio-1-all-breakpoints .heading {
-  display: flex;
-  height: 20px;
-  width: 410px;
-}
-
-.webportfolio-1-all-breakpoints .e1-heading {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  width: 407.71px;
-}
-
-.webportfolio-1-all-breakpoints .text {
-  display: flex;
-  width: 410px;
-}
-
-.webportfolio-1-all-breakpoints .e1-text {
-  flex: 1;
-  height: 168px;
-  letter-spacing: 0;
-  line-height: 21px;
-}
-
-.webportfolio-1-all-breakpoints .e1-tags {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  left: 0;
-  min-height: 188px;
-  position: absolute;
-  top: 40px;
-  width: 134px;
-}
-
-.webportfolio-1-all-breakpoints .x-tag {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: inline-flex;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  padding: 4px 12px;
-  position: relative;
-}
-
-.webportfolio-1-all-breakpoints .text-1 {
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container {
-  align-items: flex-start;
-  display: flex;
-  gap: 11px;
-  min-width: 134px;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container-1 {
-  gap: 9px;
-  min-width: 107px;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container-2 {
-  gap: 9px;
-  min-width: 125px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group2 {
-  height: 166px;
-  margin-left: 0.02px;
-  margin-top: 50px;
-  position: relative;
-  width: 565px;
-}
-
-.webportfolio-1-all-breakpoints .experience2 {
-  display: flex;
-  height: 166px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 565px;
-}
-
-.webportfolio-1-all-breakpoints .e2-experience {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  gap: 48px;
-  min-width: 565.06px;
-}
-
-.webportfolio-1-all-breakpoints .date-tags-1 {
-  width: 108px;
-}
-
-.webportfolio-1-all-breakpoints .job-description-1 {
-  min-height: 134px;
-  width: 409px;
-}
-
-.webportfolio-1-all-breakpoints .heading-1 {
-  display: flex;
-  height: 20px;
-  width: 411px;
-}
-
-.webportfolio-1-all-breakpoints .e2-heading {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  width: 409.15px;
-}
-
-.webportfolio-1-all-breakpoints .text-2 {
-  display: flex;
-  width: 411px;
-}
-
-.webportfolio-1-all-breakpoints .e2-text {
-  flex: 1;
-  height: 105px;
-  letter-spacing: 0;
-  line-height: 21px;
-}
-
-.webportfolio-1-all-breakpoints .e2-tags {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 11px;
-  left: 0;
-  min-height: 67px;
-  position: absolute;
-  top: 40px;
-  width: 120px;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container-3 {
-  gap: 11px;
-  min-width: 101px;
-}
-
-.webportfolio-1-all-breakpoints .e2-tag1 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: flex;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  padding: 4px 12px;
-  position: relative;
-  width: 41px;
-}
-
-.webportfolio-1-all-breakpoints .e2-tag2 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: flex;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  padding: 4px 12px;
-  position: relative;
-  width: 49px;
-}
-
-.webportfolio-1-all-breakpoints .e2-tag3 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: flex;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  padding: 4px 12px;
-  position: relative;
-  width: 120px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group3 {
-  height: 166px;
-  margin-left: 0.02px;
-  margin-top: 50px;
-  position: relative;
-  width: 563px;
-}
-
-.webportfolio-1-all-breakpoints .e3-experience {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  gap: 41px;
-  min-width: 563.06px;
-}
-
-.webportfolio-1-all-breakpoints .date-tags-2 {
-  width: 114px;
-}
-
-.webportfolio-1-all-breakpoints .job-description-2 {
-  min-height: 155px;
-  width: 408px;
-}
-
-.webportfolio-1-all-breakpoints .e3-heading {
-  flex: 1;
-  letter-spacing: 0;
-  line-height: 20px;
-  width: 407.7px;
-}
-
-.webportfolio-1-all-breakpoints .e3-text {
-  flex: 1;
-  height: 126px;
-  letter-spacing: 0;
-  line-height: 21px;
-}
-
-.webportfolio-1-all-breakpoints .e3-tags {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  left: 0;
-  min-height: 108px;
-  position: absolute;
-  top: 40px;
-  width: 107px;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container-4 {
-  gap: 10px;
-  min-width: 107px;
-}
-
-.webportfolio-1-all-breakpoints .resume-link {
-  height: 19px;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-bottom: -1px;
-  margin-left: 0.02px;
-  margin-top: 48px;
-  white-space: nowrap;
-}
-
-.webportfolio-1-all-breakpoints .lines-1 {
-  height: 13px;
-  margin-left: 3.82px;
-  object-fit: cover;
-  width: 545px;
-}
-
-.webportfolio-1-all-breakpoints .projects-1 {
-  align-items: flex-start;
-  align-self: flex-end;
-  display: flex;
-  flex-direction: column;
-  gap: 35px;
-  min-height: 501px;
-  width: 578px;
-}
-
-.webportfolio-1-all-breakpoints .project1 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  min-height: 206px;
-  width: 569px;
-}
-
-.webportfolio-1-all-breakpoints .flex-row {
-  align-items: center;
-  min-width: 537px;
-}
-
-.webportfolio-1-all-breakpoints .overlap-group {
-  height: 81px;
-  position: relative;
-  width: 143px;
-}
-
-.webportfolio-1-all-breakpoints .x-background {
-  background-color: var(--dingley);
-  border-radius: 4px;
-  height: 77px;
-  left: 0;
-  position: absolute;
-  top: 4px;
-  width: 138px;
-}
-
-.webportfolio-1-all-breakpoints .p1-image {
-  background-image: url(../img/p1-image-1@2x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  border-radius: 4px;
-  height: 77px;
-  left: 4px;
-  position: absolute;
-  top: 0;
-  width: 138px;
-}
-
-.webportfolio-1-all-breakpoints .flex-col {
-  align-items: flex-start;
-  flex-direction: column;
-  margin-bottom: 4.0px;
-  min-height: 59px;
-  width: 383px;
-}
-
-.webportfolio-1-all-breakpoints .x-heading {
-  height: 20px;
-  letter-spacing: 0;
-  line-height: 20px;
-  width: 383px;
-}
-
-.x-heading a{
-  color: inherit;
-}
-
-.webportfolio-1-all-breakpoints .x-tags {
-  align-items: flex-start;
-  display: flex;
-  gap: 9px;
-  position: relative;
-  width: 308px;
-}
-
-.webportfolio-1-all-breakpoints .x-tag-1 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  padding: 4px 12px;
-  position: relative;
-}
-
-.webportfolio-1-all-breakpoints .p1-tag4 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  margin-right: -28.00px;
-  padding: 4px 12px;
-  position: relative;
-}
-
-.webportfolio-1-all-breakpoints .p1-body {
-  height: 84px;
-  letter-spacing: 0;
-  line-height: 21px;
-  width: 569px;
-}
-
-.webportfolio-1-all-breakpoints .project2 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  margin-left: 1.14px;
-  min-height: 206px;
-  width: 575px;
-}
-
-.webportfolio-1-all-breakpoints .p2-image {
-  background-image: url(../img/p2-image-7@2x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  border-radius: 4px;
-  height: 77px;
-  left: 4px;
-  position: absolute;
-  top: 0;
-  width: 138px;
-}
-
-.webportfolio-1-all-breakpoints .p2-tag4 {
-  align-items: center;
-  background-color: var(--racing-green);
-  border-radius: 90px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  height: 28px;
-  justify-content: center;
-  margin-right: -1.00px;
-  padding: 4px 12px;
-  position: relative;
-}
-
-.webportfolio-1-all-breakpoints .p2-body {
-  height: 84px;
-  letter-spacing: 0;
-  line-height: 21px;
-  width: 575px;
-}
-
-.webportfolio-1-all-breakpoints .additional-projects {
-  height: 19px;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-bottom: -1px;
-  margin-left: 0.14px;
-  white-space: nowrap;
-}
-
-.projects a{
-  color: inherit;
-}
-
-.about a{
-  color: inherit;
-}
-
-.place a{
-  color: inherit;
-}
-
-.webportfolio-1-all-breakpoints .footer {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-bottom: -3px;
-  margin-right: 8px;
-  margin-top: 56px;
-  white-space: nowrap;
-  width: 336px;
-  /*z-index: 1;*/
-}
-
-.webportfolio-1-all-breakpoints .date-tags-3 {
-  display: flex;
-  margin-top: 6px;
-}
-
-.webportfolio-1-all-breakpoints .e-tag-container-5 {
-  align-items: flex-start;
-  display: flex;
-}
-
-.webportfolio-1-all-breakpoints .flex {
-  display: flex;
-  gap: 11px;
-}
-
-.webportfolio-1-all-breakpoints .job-description-3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 9px;
-}
 /* Medium Screen */
-
+/*#region*/
 .webportfolio-2 {
   align-items: flex-end;
   background-color: var(--mallard);
@@ -2436,6 +1692,756 @@ color: inherit
   padding: 4px 12px;
   position: relative;
 }
+/*#endregion Medium Screen*/
+
+/* Full Screen */
+/*#region*/
+.webportfolio-1-all-breakpoints {
+  align-items: flex-end;
+  background-color: var(--mallard);
+  display: flex;
+  flex-direction: column;
+  min-height: 2130px;
+  width: 1200px;
+}
+
+/* Header */
+.webportfolio-1-all-breakpoints .header {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 104px;
+  justify-content: flex-start;
+  width: 777px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group4 {
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  margin-right: 300px;
+  position: relative;
+  width: 711px;
+}
+
+.webportfolio-1-all-breakpoints .background {
+  background-color: var(--racing-green-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 711px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group-1 {
+  align-items: center;
+  background-color: var(--coriander-2);
+  border-radius: 15px;
+  display: flex;
+  height: 37px;
+  left: 565px;
+  min-width: 128px;
+  position: absolute;
+  top: 20px;
+  transition: all 0.3s;
+}
+
+.overlap-group-1:hover{
+  transform: scale(1.05);
+}
+
+.webportfolio-1-all-breakpoints .info {
+  display: flex;
+  height: 590px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 432px;
+  /*z-index: 4;*/
+}
+
+.webportfolio-1-all-breakpoints .info-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 400px;
+  padding: 11.0px 0;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group1 {
+  height: 523px;
+  position: relative;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group-2 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .picture {
+  height: 371px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.webportfolio-1-all-breakpoints .background-1 {
+  background-color: var(--black-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 341px;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .intro {
+  height: 42px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 425px;
+  width: 358px;
+}
+
+.webportfolio-1-all-breakpoints .title {
+  height: 27px;
+  left: 26px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+  width: 197px;
+}
+
+.webportfolio-1-all-breakpoints .name {
+  color: var(--green-white);
+  font-family: var(--font-family-istok_web);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 48px;
+  left: 26px;
+  letter-spacing: -1.20px;
+  line-height: 48px;
+  position: absolute;
+  top: 345px;
+  width: 309px;
+}
+
+.webportfolio-1-all-breakpoints .social-icons {
+  align-items: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 22px;
+  left: 27px;
+  min-width: 102px;
+  position: absolute;
+  top: 490px;
+}
+
+.webportfolio-1-all-breakpoints .github {
+  align-self: flex-start;
+  height: 21px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.github:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-1-all-breakpoints .linked-in {
+  height: 22px;
+  margin-bottom: -0.14px;
+  object-fit: cover;
+  width: 22px;
+  transition: all 0.3s;
+}
+
+.linked-in:hover{
+  transform: scale(1.15);
+}
+
+.webportfolio-1-all-breakpoints .scroll-frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  height: 1937px;
+  margin-right: 8px;
+  padding: 54px 74.2px;
+  width: 731px;
+  /*z-index: 2;*/
+}
+
+.webportfolio-1-all-breakpoints .intro-1 {
+  align-self: center;
+  display: flex;
+  height: 312px;
+  margin-left: 15px;
+  width: 100%;
+}
+
+.webportfolio-1-all-breakpoints .paragraph-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 570px;
+}
+
+.webportfolio-1-all-breakpoints .lines {
+  height: 13px;
+  margin-left: 6.82px;
+  object-fit: cover;
+  width: 545px;
+}
+
+.webportfolio-1-all-breakpoints .experiences {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.78px;
+  min-height: 727px;
+  width: 567px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group1-1 {
+  height: 228px;
+  position: relative;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .experience {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .e1-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 46px;
+  min-width: 563.08px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags {
+  display: flex;
+  margin-top: 6px;
+  width: 109px;
+}
+
+.webportfolio-1-all-breakpoints .x-date {
+  flex: 1;
+  height: 16px;
+  letter-spacing: 0.30px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.webportfolio-1-all-breakpoints .job-description {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-bottom: -31px;
+  min-height: 197px;
+  width: 408px;
+}
+
+.webportfolio-1-all-breakpoints .heading {
+  display: flex;
+  height: 20px;
+  width: 410px;
+}
+
+.webportfolio-1-all-breakpoints .e1-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.71px;
+}
+
+.webportfolio-1-all-breakpoints .text {
+  display: flex;
+  width: 410px;
+}
+
+.webportfolio-1-all-breakpoints .e1-text {
+  flex: 1;
+  height: 168px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e1-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 188px;
+  position: absolute;
+  top: 40px;
+  width: 134px;
+}
+
+.webportfolio-1-all-breakpoints .x-tag {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .text-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  min-width: 134px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-1 {
+  gap: 9px;
+  min-width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-2 {
+  gap: 9px;
+  min-width: 125px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group2 {
+  height: 166px;
+  margin-left: 0.02px;
+  margin-top: 50px;
+  position: relative;
+  width: 565px;
+}
+
+.webportfolio-1-all-breakpoints .experience2 {
+  display: flex;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.webportfolio-1-all-breakpoints .e2-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 48px;
+  min-width: 565.06px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags-1 {
+  width: 108px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-1 {
+  min-height: 134px;
+  width: 409px;
+}
+
+.webportfolio-1-all-breakpoints .heading-1 {
+  display: flex;
+  height: 20px;
+  width: 411px;
+}
+
+.webportfolio-1-all-breakpoints .e2-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 409.15px;
+}
+
+.webportfolio-1-all-breakpoints .text-2 {
+  display: flex;
+  width: 411px;
+}
+
+.webportfolio-1-all-breakpoints .e2-text {
+  flex: 1;
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 0;
+  min-height: 67px;
+  position: absolute;
+  top: 40px;
+  width: 120px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-3 {
+  gap: 11px;
+  min-width: 101px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 41px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag2 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 49px;
+}
+
+.webportfolio-1-all-breakpoints .e2-tag3 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: 120px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group3 {
+  height: 166px;
+  margin-left: 0.02px;
+  margin-top: 50px;
+  position: relative;
+  width: 563px;
+}
+
+.webportfolio-1-all-breakpoints .e3-experience {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 41px;
+  min-width: 563.06px;
+}
+
+.webportfolio-1-all-breakpoints .date-tags-2 {
+  width: 114px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-2 {
+  min-height: 155px;
+  width: 408px;
+}
+
+.webportfolio-1-all-breakpoints .e3-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 407.7px;
+}
+
+.webportfolio-1-all-breakpoints .e3-text {
+  flex: 1;
+  height: 126px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.webportfolio-1-all-breakpoints .e3-tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 108px;
+  position: absolute;
+  top: 40px;
+  width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-4 {
+  gap: 10px;
+  min-width: 107px;
+}
+
+.webportfolio-1-all-breakpoints .resume-link {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.02px;
+  margin-top: 48px;
+  white-space: nowrap;
+}
+
+.webportfolio-1-all-breakpoints .lines-1 {
+  height: 13px;
+  margin-left: 3.82px;
+  object-fit: cover;
+  width: 545px;
+}
+
+.webportfolio-1-all-breakpoints .projects-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  min-height: 501px;
+  width: 578px;
+}
+
+.webportfolio-1-all-breakpoints .project1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 206px;
+  width: 569px;
+}
+
+.webportfolio-1-all-breakpoints .flex-row {
+  align-items: center;
+  min-width: 537px;
+}
+
+.webportfolio-1-all-breakpoints .overlap-group {
+  height: 81px;
+  position: relative;
+  width: 143px;
+}
+
+.webportfolio-1-all-breakpoints .x-background {
+  background-color: var(--dingley);
+  border-radius: 4px;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .p1-image {
+  background-image: url(../img/p1-image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .flex-col {
+  align-items: flex-start;
+  flex-direction: column;
+  margin-bottom: 4.0px;
+  min-height: 59px;
+  width: 383px;
+}
+
+.webportfolio-1-all-breakpoints .x-heading {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 383px;
+}
+
+.x-heading a{
+  color: inherit;
+}
+
+.webportfolio-1-all-breakpoints .x-tags {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  position: relative;
+  width: 308px;
+}
+
+.webportfolio-1-all-breakpoints .x-tag-1 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p1-tag4 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -28.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p1-body {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 569px;
+}
+
+.webportfolio-1-all-breakpoints .project2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 1.14px;
+  min-height: 206px;
+  width: 575px;
+}
+
+.webportfolio-1-all-breakpoints .p2-image {
+  background-image: url(../img/p2-image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 77px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.webportfolio-1-all-breakpoints .p2-tag4 {
+  align-items: center;
+  background-color: var(--racing-green);
+  border-radius: 90px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  margin-right: -1.00px;
+  padding: 4px 12px;
+  position: relative;
+}
+
+.webportfolio-1-all-breakpoints .p2-body {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: 21px;
+  width: 575px;
+}
+
+.webportfolio-1-all-breakpoints .additional-projects {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 0.14px;
+  white-space: nowrap;
+}
+
+.projects a{
+  color: inherit;
+}
+
+.about a{
+  color: inherit;
+}
+
+.place a{
+  color: inherit;
+}
+
+.webportfolio-1-all-breakpoints .footer {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -3px;
+  margin-right: 8px;
+  margin-top: 56px;
+  white-space: nowrap;
+  width: 336px;
+  /*z-index: 1;*/
+}
+
+.webportfolio-1-all-breakpoints .date-tags-3 {
+  display: flex;
+  margin-top: 6px;
+}
+
+.webportfolio-1-all-breakpoints .e-tag-container-5 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.webportfolio-1-all-breakpoints .flex {
+  display: flex;
+  gap: 11px;
+}
+
+.webportfolio-1-all-breakpoints .job-description-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+/*#endregion Full Screen*/
+
+
 @media screen and (max-width: 970px) {
   .screen.webportfolio-1-all-breakpoints { 
     display: none;

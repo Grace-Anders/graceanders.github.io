@@ -1,5 +1,5 @@
-/* screen - mobileproject */
-
+/* Small Screen*/
+/*#region*/
 .mobileproject {
   align-items: center;
   background-color: var(--mallard);
@@ -7,39 +7,35 @@
   flex-direction: column;
   min-height: 2309px;
   overflow-x: hidden;
-  width: 731px;
 }
 
 .mobileproject .header-1 {
   align-items: flex-end;
-  align-self: flex-start;
-  background-color: transparent;
   display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
   height: 104px;
-  justify-content: flex-start;
-  margin-left: -46px;
-  width: 777px;
 }
 
 .mobileproject .overlap-group6 {
-  border-radius: 2px 40px 40px 2px;
   height: 91px;
-  margin-left: 66px;
-  position: relative;
-  width: 711px;
+  position: sticky;
 }
 
 .mobileproject .background-2 {
   background-color: var(--racing-green-2);
-  border-radius: 2px 40px 40px 2px;
+  border-radius: 40px 40px 40px 40px;
   height: 91px;
-  left: 0;
-  position: absolute;
-  top: 0;
   transform: rotate(180deg);
-  width: 711px;
+  width: 600px;
+}
+
+.mobileportfolio .social-icons-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 28px;
+  height: 35px;
+  left: 480px;
+  position: absolute;
+  top: 25px;
 }
 
 .mobileproject .overlap-group-5 {
@@ -48,10 +44,19 @@
   border-radius: 15px;
   display: flex;
   height: 37px;
-  left: 564px;
-  min-width: 128px;
+  left: 460px;
   position: absolute;
   top: 20px;
+}
+
+.mobileproject .intersect-2{
+  width: 575px;
+  position: center;
+}
+
+.mobileproject .intersect-3{
+  width: 545px;
+  position: center;
 }
 
 .mobileproject .contact-me-1 {
@@ -368,382 +373,18 @@
   position: absolute;
   top: 0;
 }
-/* screen - webproject-1-all-breakpoints */
+/*#endregion Small Screen*/
 
-.webproject-1-all-breakpoints {
-  align-items: center;
-  background-color: var(--mallard);
-  display: flex;
-  flex-direction: column;
-  gap: 52px;
-  min-height: 1468px;
-  overflow-x: hidden;
-  padding: 3px 0;
-  width: 1200px;
-}
-
-.webproject-1-all-breakpoints .overlap-group4 {
-  height: 1070px;
-  margin-left: 2.0px;
-  position: relative;
-  width: 1202px;
-}
-
-.webproject-1-all-breakpoints .overlap-group5 {
-  height: 1051px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1202px;
-}
-
-.webproject-1-all-breakpoints .text-section {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  left: 496px;
-  min-height: 909px;
-  position: absolute;
-  top: 142px;
-  width: 660px;
-}
-
-.webproject-1-all-breakpoints .paragraph-1 {
-  letter-spacing: 0;
-  line-height: 26px;
-  min-height: 286px;
-  width: 656px;
-}
-
-.webproject-1-all-breakpoints .video {
-  background-color: var(--black);
-  border-radius: 4px;
-  height: 354px;
-  width: 630px;
-}
-
-.webproject-1-all-breakpoints .paragraph-2 {
-  letter-spacing: 0;
-  line-height: 21px;
-  min-height: 189px;
-  width: 643px;
-}
-
-.webproject-1-all-breakpoints .overlap-group3 {
-  height: 181px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1202px;
-}
-
-.webproject-1-all-breakpoints .header {
-  align-items: flex-end;
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  height: 104px;
-  justify-content: flex-start;
-  left: 425px;
-  position: absolute;
-  top: 0;
-  width: 777px;
-}
-
-.webproject-1-all-breakpoints .overlap-group2 {
-  border-radius: 2px 40px 40px 2px;
-  height: 91px;
-  margin-left: 66px;
-  position: relative;
-  width: 711px;
-}
-
-.webproject-1-all-breakpoints .background {
-  background-color: var(--racing-green-2);
-  border-radius: 2px 40px 40px 2px;
-  height: 91px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  transform: rotate(180deg);
-  width: 711px;
-}
-
-.webproject-1-all-breakpoints .overlap-group {
-  align-items: center;
-  background-color: var(--coriander-2);
-  border-radius: 15px;
-  display: flex;
-  height: 37px;
-  left: 564px;
-  min-width: 128px;
-  position: absolute;
-  top: 20px;
-}
-
-.webproject-1-all-breakpoints .info {
-  display: flex;
-  height: 146px;
-  left: 0;
-  position: absolute;
-  top: 35px;
-  width: 476px;
-}
-
-.webproject-1-all-breakpoints .info-1 {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 5px;
-  min-width: 506.82px;
-}
-
-.webproject-1-all-breakpoints .overlap-group-1 {
-  height: 135px;
-  position: relative;
-  width: 503px;
-}
-
-.webproject-1-all-breakpoints .background-1 {
-  background-color: var(--black-2);
-  border-radius: 2px 40px 40px 2px;
-  height: 135px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 438px;
-}
-
-.webproject-1-all-breakpoints .intro {
-  left: 43px;
-  letter-spacing: 0;
-  line-height: 24px;
-  position: absolute;
-  top: 68px;
-  width: 384px;
-}
-
-.webproject-1-all-breakpoints .name {
-  height: 48px;
-  left: 42px;
-  letter-spacing: -1.20px;
-  line-height: 48px;
-  position: absolute;
-  top: 15px;
-  white-space: nowrap;
-  width: 461px;
-}
-
-.webproject-1-all-breakpoints .image-timeline {
-  flex-direction: column;
-  left: 0;
-  min-height: 864px;
-  position: absolute;
-  top: 206px;
-  width: 449px;
-}
-
-.webproject-1-all-breakpoints .image {
-  align-items: flex-start;
-  display: flex;
-  margin-right: 11px;
-  min-width: 391px;
-}
-
-.webproject-1-all-breakpoints .overlap-group-2 {
-  height: 222px;
-  position: relative;
-  width: 391px;
-}
-
-.webproject-1-all-breakpoints .p2-background {
-  background-color: var(--dingley);
-  left: 0;
-  top: 11px;
-}
-
-.webproject-1-all-breakpoints .p2-image {
-  background-image: url(../img/p2-image-5@2x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  left: 12px;
-  top: 0;
-}
-
-.webproject-1-all-breakpoints .timeline {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 23px;
-  margin-top: 65px;
-  min-height: 554px;
-  width: 390px;
-}
-
-.webproject-1-all-breakpoints .timeline-title {
-  height: 46px;
-  letter-spacing: 0;
-  line-height: 21px;
-  margin-top: -1px;
-  width: 322px;
-}
-
-.webproject-1-all-breakpoints .overlap-group1 {
-  height: 486px;
-  position: relative;
-  width: 390px;
-}
-
-.webproject-1-all-breakpoints .timeline3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 200px;
-  padding: 0 25px;
-  position: absolute;
-  top: 286px;
-  width: 390px;
-}
-
-.webproject-1-all-breakpoints .date-release {
-  height: 16px;
-  letter-spacing: 0.30px;
-  line-height: 16px;
-  margin-left: 42px;
-  margin-top: -1px;
-  white-space: nowrap;
-}
-
-.webproject-1-all-breakpoints .heading {
-  align-self: center;
-  height: 20px;
-  letter-spacing: 0;
-  line-height: 20px;
-  margin-right: 39.0px;
-  width: 217px;
-}
-
-.webproject-1-all-breakpoints .text {
-  align-self: flex-end;
-  letter-spacing: 0;
-  line-height: 21px;
-  margin-top: 13px;
-  min-height: 65px;
-  width: 298px;
-}
-
-.webproject-1-all-breakpoints .timeline2 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 200px;
-  padding: 0 25px;
-  position: absolute;
-  top: 143px;
-  width: 390px;
-}
-
-.webproject-1-all-breakpoints .timeline1 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 200px;
-  padding: 0 25px;
-  position: absolute;
-  top: 0;
-  width: 390px;
-}
-
-.webproject-1-all-breakpoints .union-1 {
-  height: 449px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 18px;
-  width: 53px;
-}
-
-.webproject-1-all-breakpoints .lines {
-  align-self: flex-start;
-  height: 10px;
-  margin-top: 13px;
-  object-fit: cover;
-  width: 424px;
-}
-
-.webproject-1-all-breakpoints .bottom-text {
-  align-items: flex-start;
-  display: flex;
-  gap: 73px;
-  margin-right: 34.0px;
-  min-width: 1090px;
-}
-
-.webproject-1-all-breakpoints .paragraph-3 {
-  letter-spacing: 0;
-  line-height: 21px;
-  min-height: 231px;
-  width: 490px;
-}
-
-.webproject-1-all-breakpoints .image-1 {
-  min-width: 525px;
-}
-
-.webproject-1-all-breakpoints .overlap-group-3 {
-  height: 298px;
-  margin-bottom: 0;
-  position: relative;
-  width: 525px;
-}
-
-.webproject-1-all-breakpoints .p2-background-1 {
-  background-color: var(--dingley);
-  border-radius: 4px;
-  height: 283px;
-  left: 0;
-  position: absolute;
-  top: 15px;
-  width: 509px;
-}
-
-.webproject-1-all-breakpoints .p2-image-1 {
-  background-image: url(../img/p2-image-4.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  border-radius: 4px;
-  height: 283px;
-  left: 16px;
-  position: absolute;
-  top: 0;
-  width: 509px;
-}
-
-.webproject-1-all-breakpoints .image-2 {
-  align-items: flex-end;
-  display: flex;
-}
-
-.webproject-1-all-breakpoints .p2 {
-  border-radius: 4px;
-  height: 211px;
-  position: absolute;
-  width: 379px;
-}
-/* screen - webproject-2 */
-
+/* Medium Screen */
+/*#region*/
 .webproject-2 {
   align-items: flex-start;
   background-color: var(--mallard);
   display: flex;
   flex-direction: column;
   min-height: 1468px;
-  overflow-x: hidden;
-  padding: 3px 0;
   width: 980px;
+  width: 100%;
 }
 
 .webproject-2 .header-2 {
@@ -998,7 +639,7 @@
 }
 
 .webproject-2 .intro-2 {
-  left: 41px;
+  left: 20px;
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
@@ -1008,7 +649,7 @@
 
 .webproject-2 .name-2 {
   height: 48px;
-  left: 40px;
+  left: 20px;
   letter-spacing: -1.20px;
   line-height: 48px;
   position: absolute;
@@ -1093,6 +734,379 @@
   position: absolute;
   top: 0;
 }
+/*#endregion Medium Screen*/
+
+/* Full Screen */
+/*#region*/
+.webproject-1-all-breakpoints {
+  align-items: center;
+  background-color: var(--mallard);
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  min-height: 1468px;
+  width: 1200px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Header */
+.webproject-1-all-breakpoints .overlap-group3 {
+  height: 181px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1202px;
+}
+
+.webproject-1-all-breakpoints .header {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 104px;
+  justify-content: flex-start;
+  left: 425px;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.webproject-1-all-breakpoints .overlap-group2 {
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  margin-left: 66px;
+  position: relative;
+  width: 711px;
+}
+
+.webproject-1-all-breakpoints .background {
+  background-color: var(--racing-green-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 711px;
+}
+
+.webproject-1-all-breakpoints .overlap-group {
+  align-items: center;
+  background-color: var(--coriander-2);
+  border-radius: 15px;
+  display: flex;
+  height: 37px;
+  left: 564px;
+  min-width: 128px;
+  position: absolute;
+  top: 20px;
+}
+
+/*-----*/
+
+.webproject-1-all-breakpoints .overlap-group4 {
+  height: 1070px;
+  margin-left: 2.0px;
+  position: relative;
+  width: 1202px;
+}
+
+.webproject-1-all-breakpoints .overlap-group5 {
+  height: 1051px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1202px;
+}
+
+.webproject-1-all-breakpoints .text-section {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 496px;
+  min-height: 909px;
+  position: absolute;
+  top: 142px;
+  width: 660px;
+}
+
+.webproject-1-all-breakpoints .paragraph-1 {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 286px;
+  width: 656px;
+}
+
+.webproject-1-all-breakpoints .video {
+  background-color: var(--black);
+  border-radius: 4px;
+  height: 354px;
+  width: 630px;
+}
+
+.webproject-1-all-breakpoints .paragraph-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 189px;
+  width: 643px;
+}
+
+/* Info */
+.webproject-1-all-breakpoints .info {
+  display: flex;
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 476px;
+}
+
+.webproject-1-all-breakpoints .info-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 5px;
+  min-width: 506.82px;
+}
+
+.webproject-1-all-breakpoints .overlap-group-1 {
+  height: 135px;
+  position: relative;
+  width: 503px;
+}
+
+.webproject-1-all-breakpoints .background-1 {
+  background-color: var(--black-2);
+  border-radius: 2px 40px 40px 2px;
+  height: 135px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.webproject-1-all-breakpoints .intro {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 68px;
+  width: 384px;
+}
+
+.webproject-1-all-breakpoints .name {
+  height: 48px;
+  left: 42px;
+  letter-spacing: -1.20px;
+  line-height: 48px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 461px;
+}
+
+.webproject-1-all-breakpoints .image-timeline {
+  flex-direction: column;
+  left: 0;
+  min-height: 864px;
+  position: absolute;
+  top: 206px;
+  width: 449px;
+}
+
+.webproject-1-all-breakpoints .image {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 11px;
+  min-width: 391px;
+}
+
+.webproject-1-all-breakpoints .overlap-group-2 {
+  height: 222px;
+  position: relative;
+  width: 391px;
+}
+
+.webproject-1-all-breakpoints .p2-background {
+  background-color: var(--dingley);
+  left: 0;
+  top: 11px;
+}
+
+.webproject-1-all-breakpoints .p2-image {
+  background-image: url(../img/p2-image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 12px;
+  top: 0;
+}
+
+.webproject-1-all-breakpoints .timeline {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin-top: 65px;
+  min-height: 554px;
+  width: 390px;
+}
+
+.webproject-1-all-breakpoints .timeline-title {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  width: 322px;
+}
+
+.webproject-1-all-breakpoints .overlap-group1 {
+  height: 486px;
+  position: relative;
+  width: 390px;
+}
+
+.webproject-1-all-breakpoints .timeline3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 200px;
+  padding: 0 25px;
+  position: absolute;
+  top: 286px;
+  width: 390px;
+}
+
+.webproject-1-all-breakpoints .date-release {
+  height: 16px;
+  letter-spacing: 0.30px;
+  line-height: 16px;
+  margin-left: 42px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.webproject-1-all-breakpoints .heading {
+  align-self: center;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 39.0px;
+  width: 217px;
+}
+
+.webproject-1-all-breakpoints .text {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 13px;
+  min-height: 65px;
+  width: 298px;
+}
+
+.webproject-1-all-breakpoints .timeline2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 200px;
+  padding: 0 25px;
+  position: absolute;
+  top: 143px;
+  width: 390px;
+}
+
+.webproject-1-all-breakpoints .timeline1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 200px;
+  padding: 0 25px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.webproject-1-all-breakpoints .union-1 {
+  height: 449px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 53px;
+}
+
+.webproject-1-all-breakpoints .lines {
+  align-self: flex-start;
+  height: 10px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 424px;
+}
+
+.webproject-1-all-breakpoints .bottom-text {
+  align-items: flex-start;
+  display: flex;
+  gap: 73px;
+  margin-right: 34.0px;
+  min-width: 1090px;
+}
+
+.webproject-1-all-breakpoints .paragraph-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 231px;
+  width: 490px;
+}
+
+.webproject-1-all-breakpoints .image-1 {
+  min-width: 525px;
+}
+
+.webproject-1-all-breakpoints .overlap-group-3 {
+  height: 298px;
+  margin-bottom: 0;
+  position: relative;
+  width: 525px;
+}
+
+.webproject-1-all-breakpoints .p2-background-1 {
+  background-color: var(--dingley);
+  border-radius: 4px;
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 509px;
+}
+
+.webproject-1-all-breakpoints .p2-image-1 {
+  background-image: url(../img/p2-image-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 4px;
+  height: 283px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.webproject-1-all-breakpoints .image-2 {
+  align-items: flex-end;
+  display: flex;
+}
+
+.webproject-1-all-breakpoints .p2 {
+  border-radius: 4px;
+  height: 211px;
+  position: absolute;
+  width: 379px;
+}
+/*#endregion*/
+
 @media screen and (max-width: 979px) {
   .screen.webproject-1-all-breakpoints { 
     display: none;
