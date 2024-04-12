@@ -270,6 +270,12 @@
 
 .mobileportfolio .heading-2 {
   width: 409px;
+  transition: all 0.3s;
+}
+
+.heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .mobileportfolio .e1-heading-1 {
@@ -362,6 +368,12 @@
 
 .mobileportfolio .heading-3 {
   width: 411px;
+  transition: all 0.3s;
+}
+
+.heading-3:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .mobileportfolio .e2-heading-1 {
@@ -369,6 +381,12 @@
   letter-spacing: 0;
   line-height: 20px;
   width: 408.64px;
+  transition: all 0.3s;
+}
+
+.heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .mobileportfolio .text-5 {
@@ -502,6 +520,12 @@
   margin-left: 15px;
   margin-top: 48px;
   white-space: nowrap;
+  transition: all 0.3s;
+}
+
+.resume-link-1:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .mobileportfolio .lines-3 {
@@ -579,6 +603,12 @@
   letter-spacing: 0;
   line-height: 20px;
   width: 383px;
+  transition: all 0.3s;
+}
+
+.x-heading-1:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .x-heading-1 a{
@@ -1023,6 +1053,12 @@ color: inherit
 
 .webportfolio-2 .heading-4 {
   width: 342px;
+  transition: all 0.3s;
+}
+
+.heading-4:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-2 .e1-heading-2 {
@@ -1244,6 +1280,12 @@ color: inherit
 
 .webportfolio-2 .heading-5 {
   width: 343px;
+  transition: all 0.3s;
+}
+
+.heading-5:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-2 .e2-heading-2 {
@@ -1251,6 +1293,12 @@ color: inherit
   letter-spacing: 0;
   line-height: 20px;
   width: 341.3px;
+  transition: all 0.3s;
+}
+
+.heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-2 .text-16 {
@@ -1431,6 +1479,12 @@ color: inherit
   margin-left: 3px;
   margin-top: 66px;
   white-space: nowrap;
+  transition: all 0.3s;
+}
+
+.resume-link-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-2 .lines-5 {
@@ -1507,6 +1561,12 @@ color: inherit
   letter-spacing: 0;
   line-height: 20px;
   width: 383px;
+  transition: all 0.3s;
+}
+
+.x-heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .x-heading-2 a{
@@ -1664,7 +1724,14 @@ color: inherit
 .webportfolio-2 .heading {
   display: flex;
   height: 20px;
+  transition: all 0.3s;
 }
+
+.heading:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
+}
+
 
 .webportfolio-2 .info {
   align-items: flex-end;
@@ -1715,12 +1782,14 @@ color: inherit
   height: 104px;
   justify-content: flex-start;
   width: 777px;
+  /*
+  z-index: 3;*/
 }
 
 .webportfolio-1-all-breakpoints .overlap-group4 {
   border-radius: 2px 40px 40px 2px;
   height: 91px;
-  margin-right: 300px;
+  margin-left: 66px;
   position: relative;
   width: 711px;
 }
@@ -1970,6 +2039,12 @@ color: inherit
   display: flex;
   height: 20px;
   width: 410px;
+  transition: all 0.3s;
+}
+
+.heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-1-all-breakpoints .e1-heading {
@@ -2079,6 +2154,12 @@ color: inherit
   display: flex;
   height: 20px;
   width: 411px;
+  transition: all 0.3s;
+}
+
+.heading-1:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-1-all-breakpoints .e2-heading {
@@ -2086,6 +2167,12 @@ color: inherit
   letter-spacing: 0;
   line-height: 20px;
   width: 409.15px;
+  transition: all 0.3s;
+}
+
+.heading-2:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-1-all-breakpoints .text-2 {
@@ -2220,6 +2307,12 @@ color: inherit
   margin-left: 0.02px;
   margin-top: 48px;
   white-space: nowrap;
+  transition: all 0.3s;
+}
+
+.resume-link:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .webportfolio-1-all-breakpoints .lines-1 {
@@ -2294,6 +2387,12 @@ color: inherit
   letter-spacing: 0;
   line-height: 20px;
   width: 383px;
+  transition: all 0.3s;
+}
+
+.x-heading:hover{
+  transform: scale(1.02);
+  transform-origin: 0 0;
 }
 
 .x-heading a{
