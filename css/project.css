@@ -49,6 +49,11 @@
   top: 20px;
 }
 
+
+.overlap-group-5:hover{
+  transform: scale(1.05);
+}
+
 .mobileproject .intersect-2{
   width: 575px;
   position: center;
@@ -60,12 +65,18 @@
 }
 
 .mobileproject .contact-me-1 {
+  color: var(--racing-green-2);
+  font-family: var(--font-family-istok_web);
   height: 19px;
   letter-spacing: 0;
   line-height: 20px;
   text-align: center;
   white-space: nowrap;
   width: 128px;
+}
+
+.contact-me-1 a {
+  color: inherit;
 }
 
 .mobileproject .projects-1 {
@@ -429,6 +440,10 @@
   min-width: 128px;
   position: absolute;
   top: 20px;
+}
+
+.overlap-group-8:hover{
+  transform: scale(1.05);
 }
 
 .webproject-2 .intersect-4 {
@@ -801,6 +816,10 @@
   min-width: 128px;
   position: absolute;
   top: 20px;
+}
+
+.overlap-group:hover{
+  transform: scale(1.05);
 }
 
 /*-----*/
