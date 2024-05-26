@@ -36,13 +36,10 @@ html {
   transform: scale(1.05);
 }
 
-.projects-1 a{
+.x-heading a{
   color: inherit;
 }
 
-.projects-1:hover{
-  transform: scale(1.05);
-}
 
 .projects-2 a{
   color: inherit;
@@ -740,6 +737,16 @@ html {
 }
 
 .mobileportfolio .project2-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 1.14px;
+  min-height: 206px;
+  width: 574px;
+}
+
+.mobileportfolio .projects1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -1717,6 +1724,16 @@ color: inherit
   width: 458px;
 }
 
+.webportfolio-2 .projects1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 1.14px;
+  min-height: 206px;
+  width: 574px;
+}
+
 .webportfolio-2 .p2-image-2 {
   background-image: url(../img/p2-image-6@2x.png);
   background-position: 50% 50%;
@@ -2540,6 +2557,14 @@ color: inherit
   min-height: 206px;
   width: 575px;
 }
+
+.webportfolio-1-all-breakpoints .projects1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.14px;
+}
+
 
 .webportfolio-1-all-breakpoints .p2-image {
   background-image: url(../img/p2-image-7@2x.png);
