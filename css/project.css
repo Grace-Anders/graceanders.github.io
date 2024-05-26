@@ -1,3 +1,92 @@
+html {
+  scroll-behavior: smooth;
+}
+/* Header */
+.contact-me a {
+  color: inherit;
+}
+
+.place a{
+  color: inherit;
+}
+.place:hover{
+  transform: scale(1.05);
+}
+
+.place-1 a{
+  color: inherit;
+}
+.place-1:hover{
+  transform: scale(1.05);
+}
+
+.place-2 a{
+  color: inherit;
+}
+.place-2:hover{
+  transform: scale(1.05);
+}
+
+.projects a{
+  color: inherit;
+}
+
+.projects:hover{
+  transform: scale(1.05);
+}
+
+.projects-1 a{
+  color: inherit;
+}
+
+.projects-1:hover{
+  transform: scale(1.05);
+}
+
+.projects-2 a{
+  color: inherit;
+}
+
+.projects-2:hover{
+  transform: scale(1.05);
+}
+
+.contact-me-1 a {
+  color: inherit;
+}
+
+.projects a{
+  color: inherit;
+}
+
+.projects:hover{
+  transform: scale(1.05);
+}
+
+.about a{
+  color: inherit;
+}
+
+.about:hover{
+  transform: scale(1.05);
+}
+
+.about-1 a{
+  color: inherit;
+}
+
+.about-1:hover{
+  transform: scale(1.05);
+}
+
+.about-2 a{
+  color: inherit;
+}
+
+.about-2:hover{
+  transform: scale(1.05);
+}
+
 /* Small Screen*/
 /*#region*/
 .mobileproject {
@@ -64,7 +153,7 @@
   position: center;
 }
 
-.mobileproject .contact-me-1 {
+.mobileproject .contact-me {
   color: var(--racing-green-2);
   font-family: var(--font-family-istok_web);
   height: 19px;
@@ -75,8 +164,15 @@
   width: 128px;
 }
 
-.contact-me-1 a {
-  color: inherit;
+.mobileproject .contact-me-1 {
+  color: var(--racing-green-2);
+  font-family: var(--font-family-istok_web);
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 128px;
 }
 
 .mobileproject .projects-1 {
